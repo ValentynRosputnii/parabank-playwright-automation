@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25766d3f-e65e-4d0b-b339-cb6a6c6fb6ef" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37r6bJ46brzf456ZXLaAAnXvfhm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.parabank.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Playwright.Parabank smoke.Home page opens.executor": "Run",
+    "Playwright.Parabank smoke.executor": "Run",
+    "Playwright.get started link.executor": "Run",
+    "Playwright.has title.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "last_opened_file_path": "/Users/rosputniiv/Projects/parabank-playwright-automation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/rosputniiv/Projects/parabank-playwright-automation/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Playwright.Parabank smoke">
+    <configuration name="Parabank smoke" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/smoke.spec.ts" />
+      <test-names>
+        <test-name value="Parabank smoke" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Parabank smoke.Home page opens" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/smoke.spec.ts" />
+      <test-names>
+        <test-name value="Parabank smoke" />
+        <test-name value="Home page opens" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get started link" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/example.spec.ts" />
+      <test-names>
+        <test-name value="get started link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="has title" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/example.spec.ts" />
+      <test-names>
+        <test-name value="has title" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="parabank" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/parabank">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.Parabank smoke" />
+        <item itemvalue="Playwright.get started link" />
+        <item itemvalue="Playwright.has title" />
+        <item itemvalue="Playwright.Parabank smoke.Home page opens" />
+        <item itemvalue="JavaScript Debug.parabank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28539.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25766d3f-e65e-4d0b-b339-cb6a6c6fb6ef" name="Changes" comment="" />
+      <created>1767648913448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767648913448</updated>
+      <workItem from="1767648915220" duration="2232000" />
+      <workItem from="1767651362757" duration="7195000" />
+      <workItem from="1770750805020" duration="2155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
