@@ -10,7 +10,6 @@ export async function waitForApp(baseURL: string, timeoutMs = 60_000) {
                 const res = await api.get(''); // саме baseURL
                 const status = res.status();
 
-                // ✅ 200..399 = "живий" (включно з 302)
                 if (status >= 200 && status < 400) return;
             } catch {
                 // ignore
